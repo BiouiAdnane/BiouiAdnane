@@ -14,9 +14,11 @@ jobs:
 
       - name: Generate Snake animation
         run: |
-          curl -o github-contribution-grid-snake.svg https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+          curl -o github-contribution-grid-snake-dark.svg https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
+          curl -o github-contribution-grid-snake-light.svg https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
           mkdir -p dist
-          mv github-contribution-grid-snake.svg dist/
+          mv github-contribution-grid-snake-dark.svg dist/
+          mv github-contribution-grid-snake-light.svg dist/
 
       - name: Push the Snake to the output branch
         uses: peaceiris/actions-gh-pages@v3
