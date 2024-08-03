@@ -45,6 +45,9 @@
 </div>
 
 
+## 🐍 Snake Commit Animation
+
+![GitHub Snake](https://github.com/BiouiAdnane/BiouiAdnane/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BiouiAdnane&icon=2&color=4)](https://visitcount.itsvg.in)
