@@ -22,6 +22,8 @@
   
 </div>
 
+<!--
+
 ## 📊 LeetCode Stats
 ###
 <div align="center">
@@ -32,6 +34,7 @@
   
 </div>
 
+-->
 
 ## 🏆 GitHub Trophies
 ###
@@ -71,4 +74,4 @@
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
